@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Ground
+  - Coin
+  - Obstacle
+  - Goal
+  - Cherry
+  - Star
   layers:
   - Default
   - TransparentFX
